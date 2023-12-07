@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about emulators, kernels, fuzzing, C, and why compilers are liars
 - 🤔 I’m looking for help with anything and everything
 - 💬 Ask me about 🤷 
-- 📫 How to reach me: file an issue? 
+- 📫 How to reach me: stiched together 5 different PCRE2 regular expressions in the same one liner to summon me
 - ⚡ Fun fact: Computers are and have always been a mistake
 
 
