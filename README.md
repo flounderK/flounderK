@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - I like playing Capture the Flag (CTF)
 - 🌱 I’m currently learning about emulators, kernels, fuzzing, C, and why compilers are liars
 - 🤔 I’m looking for help with anything and everything
-- 💬 Ask me about 🤷 
-- 📫 How to reach me: stiched together 5 different PCRE2 regular expressions in the same one liner to summon me
+- 💬 Ask me about 🤷 Why ghidra do that? 🤷 
+- 📫 How to reach me: stich together 5 different PCRE2 regular expressions in the same one-liner to summon me
 - ⚡ Fun fact: Computers are and have always been a mistake
 
 
